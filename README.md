@@ -1,0 +1,2 @@
+# Prediction-of-Ozone-Days
+Ozone levels are a very important factor which affect the weather at particular location at a particular time. If the ozone level is less then it can cause many issues like sunburns. Therefore, it is necessary to predict the ozone levels at a particular location based on factors like temperature, wind speed, humidity, etc. in order to make sure that the weather is safe enough for outdoor activities. In this project, we have predicted whether a day is ozone day or not based on the past weather data available for the location.
